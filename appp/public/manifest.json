@@ -1,0 +1,15 @@
+{
+  "name": "GRACE-X Sport ULTIMATE",
+  "short_name": "GX Sport",
+  "display": "standalone",
+  "background_color": "#030014",
+  "theme_color": "#030014",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
